@@ -1,25 +1,19 @@
 # Site
 name: "Mediumish"
-title: "NPPi3enz's Blog"
-description: "Lifestyle Movie Coding"
+title: "Mediumish"
+description: "Jekyll Template for Blogging"
 meta_description: "Jekyll template, Medium styled, free for bloggers."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
-baseurl: 'https://xenodochial-beaver-b9fd1a.netlify.com'
+baseurl: ''
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
-#smailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  nppi3enz:
-    name: nppi3enz
-    display_name: nppi3enz
-    web: https://www.nppi3enz.com
-    twitter: https://twitter.com/nppi3enz
-    description: "Nipitpon Chantada"
   sal:
     name: Sal
     display_name: Sal
