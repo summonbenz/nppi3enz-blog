@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Quick Start Guide"
-author: sal
+title:  "ภาษาไทย Quick Start Guide"
+author: nppi3enz
 categories: [ Jekyll, tutorial ]
 image: assets/images/12.jpg
 featured: true
 hidden: true
 ---
+
+ทดสอบภาษาไทย 
 
 If you already have a full Ruby development environment with all headers and RubyGems installed (see Jekyll’s requirements), you can create a new Jekyll site by doing the following:
 
