@@ -1,14 +1,14 @@
 # Site
 name: "NPPi3enz.com"
 title: "NPPi3enz.com"
-description: "Lifestyle | Coding | Movie"
+description: "Lifestyle • Food • Movie • Coding"
 meta_description: "Jekyll template, Medium styled, free for bloggers."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
 google_analytics: 'UA-123099315-1 '
 #disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
@@ -22,6 +22,10 @@ authors:
     web: https://www.wowthemes.net
     twitter: https://twitter.com/wowthemesnet
     description: "ปัจจุปันทำงานแล้ว เคยศึกษาอยู่ที่คณะวิทยาศาสตร์ สาขาวิทยาการคอมพิวเตอร์ ณ สหพันธรัฐจามจุรี เป็นมนุษย์เกือบ GEEK และบ้าหนังเป็นชีวิตจิตใจ || CSCU#20, SCCU#79, YWC#11, YLSC#19, STBUU''54"
+  pr:
+    name: PR
+    display_name: PR
+    description: "ข่าวสารและประชาสัมพันธ์"
     
 # Plugins
 plugins: 
