@@ -2,7 +2,7 @@
 layout: post
 title: "การเขียนอ้างอิงเว็บไซต์ที่ถูกต้อง"
 author: nppi3enz
-categories: [General, in thai, reference, thai reference, website, ข้อมูลอ้างอิง, บรรณานุกรม, อินเตอร์เน็ต, อ้างอิง, อ้างอิงเว็บไซต์, เว็บไซต์]
+categories: [General, reference, thai reference, website, ข้อมูลอ้างอิง, บรรณานุกรม, อินเตอร์เน็ต, อ้างอิง, อ้างอิงเว็บไซต์, เว็บไซต์]
 image: assets/images/writing-923882_1280.jpg
 ---
 
