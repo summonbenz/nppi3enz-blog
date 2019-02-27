@@ -15,5 +15,6 @@ group :jekyll_plugins do
     gem 'jekyll-paginate'
     gem 'jekyll-seo-tag'
     gem 'jekyll-archives'
-    gem "jekyll-youtube"
+    gem 'jekyll-youtube'
+    gem 'jekyll-lazy-load-image'
 end
